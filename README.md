@@ -9,22 +9,19 @@ An android native application depending on the platform you applied for that ret
 -  Sort the results first by "listId" then by "name" when displaying.
 -  Filter out any items where "name" is blank or null.
 
-
-https://github.com/drish1001/FetchApplication/assets/36307309/5408eb1e-ddbd-4d81-bb67-351d6542a681
-
-
+https://github.com/drish1001/FetchApp/assets/36307309/2a4ec36f-2f67-46a4-a244-cb967d34ff5d
 
 ## Image Gallery
 
 -  Sorted based on the NameID's
-<img width="201" src="https://github.com/drish1001/FetchApplication/assets/36307309/22b7a1d4-3cff-4ef2-a74a-c588690bd09e">
-<img width="201" src="https://github.com/drish1001/FetchApplication/assets/36307309/24c19131-522e-4958-b334-c273382d14f6">
+<img width="201" src="https://github.com/drish1001/FetchApp/assets/36307309/2e165bcf-94bf-4873-b099-b2540e411432">
+<img width="201" src="https://github.com/drish1001/FetchApp/assets/36307309/da9213ab-d663-47ed-b7bc-e3a9f9d1f7e0">
 
 -  Sorted based on the ListID's
-<img width="201" src="https://github.com/drish1001/FetchApplication/assets/36307309/3b9fbf35-4a2e-4a55-bc20-aa7640f9f362">
-<img width="201" src="https://github.com/drish1001/FetchApplication/assets/36307309/58302d5b-4611-40ec-87d4-5cb0808cfbd8">
-<img width="201" src="https://github.com/drish1001/FetchApplication/assets/36307309/e555e734-23f8-4d83-b462-532cb3dc9e58">
-<img width="201" src="https://github.com/drish1001/FetchApplication/assets/36307309/7ba14183-936b-4072-b1a0-1d367e68cefd">
+<img width="201" src="https://github.com/drish1001/FetchApp/assets/36307309/278396b2-2fb3-4dad-b537-959c62d9c561">
+<img width="201" src="https://github.com/drish1001/FetchApp/assets/36307309/b01da12c-f26d-4178-9a03-634bf8de65c8">
+<img width="201" src="https://github.com/drish1001/FetchApp/assets/36307309/a4cbc95f-a161-4885-b365-ee48a1bf6f65">
+<img width="201" src="https://github.com/drish1001/FetchApp/assets/36307309/de861c61-fda5-4243-942a-f21b5ddebfe3">
 
 ## 🚀 Usage
 
