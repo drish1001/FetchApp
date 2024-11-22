@@ -28,11 +28,3 @@ https://github.com/drish1001/FetchApp/assets/36307309/2a4ec36f-2f67-46a4-a244-cb
 Make sure you have JDK22 & [Android Studio](https://developer.android.com/studio?_gl=1*rbvshx*_up*MQ..&gclid=Cj0KCQjw-_mvBhDwARIsAA-Q0Q5311RW1MlH9_TCU8jN9cxozNYw2p0nQnwnOG55GF8BfPsrvt1oqPgaAvivEALw_wcB&gclsrc=aw.ds) installed.
 
 To run the project - Import the project in Android Studio and click on MainActivity.xml file to see the preview of the application.
-
-## Author
-
-👤 **Drishti Singh**
-
-- LinkedIn: [@drishti-singh1001](https://linkedin.com/drishti-singh1001)
-- Twitter: [@drish1001](https://twitter.com/Drish1001)
-- Github: [@drish1001](https://github.com/drish1001)
